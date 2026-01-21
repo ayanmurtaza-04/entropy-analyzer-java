@@ -22,5 +22,4 @@ Entropy is a measure of unpredictability or information content. In the context 
 - Low entropy → more predictable / repeated patterns
 - High entropy → random (e.g., compressed or encrypted) data
 
-Shannon’s entropy formula:
 
